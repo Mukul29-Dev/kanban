@@ -6,11 +6,9 @@ function App() {
   return (
     <div className="App">
       <react-fragment>
-        <div className="bg-main">
-          <>
+        <>
           <Header />
-          </>
-        </div>
+        </>
       </react-fragment>
     </div>
   );
