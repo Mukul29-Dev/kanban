@@ -6,11 +6,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(https://www.nikkisplate.com/wp-content/uploads/2023/06/25-CUTE-BLUE-AESTHETIC-WALLPAPER-DESKTOP-.png);
+  /* background: url(https://www.nikkisplate.com/wp-content/uploads/2023/06/25-CUTE-BLUE-AESTHETIC-WALLPAPER-DESKTOP-.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: rgba(255, 251, 251, 0.178)!important;
+  background-color: rgba(255, 251, 251, 0.178)!important; */
+  background-color: rgb(221, 221, 221)!important;
 }
 
 code {

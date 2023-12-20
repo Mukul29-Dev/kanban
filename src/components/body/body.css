@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0;
+}
+.Kan_col {
+    width: 21%!important;
+    max-width: 22%!important;
+    min-height: 70vh;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.section {
+    padding: 0px 8em;
+}
+.column_head{
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    padding: 6px 0px;
+}
+.card_shadow{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
