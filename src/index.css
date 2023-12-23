@@ -11,10 +11,10 @@ body {
   background-position: center;
   background-size: cover;
   background-color: rgba(255, 251, 251, 0.178)!important; */
-  background-color: rgb(221, 221, 221)!important;
+  background-color: rgba(105, 105, 105, 0.13)!important;
 }
 
 code {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif!important;
 }
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Borel&family=Dosis:wght@800&family=Fira+Mono&family=League+Gothic&family=Montserrat&family=Open+Sans&family=Raleway:wght@400;600&family=Roboto&family=Ubuntu:wght@300&display=swap');

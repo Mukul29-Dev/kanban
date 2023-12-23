@@ -9,15 +9,18 @@
     min-height: 70vh;
     background-color: white;
     border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    box-shadow: rgba(0, 0, 0, 0.01) 0px 10px 50px;
 }
 .section {
     padding: 0px 8em;
+    margin-top: 6em;
 }
 .column_head{
-    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
     padding: 6px 0px;
+    width: 100%;
 }
 .card_shadow{
-    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    margin: 0!important;
 }
