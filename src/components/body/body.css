@@ -4,15 +4,15 @@
     margin: 0;
 }
 .Kan_col {
-    width: 21%!important;
-    max-width: 22%!important;
+    width: 24%!important;
+    max-width: 24%!important;
     min-height: 70vh;
     background-color: white;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.01) 0px 10px 50px;
 }
 .section {
-    padding: 0px 8em;
+    padding: 0px 10em;
     margin-top: 6em;
 }
 .column_head{
