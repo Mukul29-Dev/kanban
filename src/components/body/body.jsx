@@ -9,7 +9,7 @@ export default function body() {
         <Row className="mt-5 justify-content-between mx-auto">
             <Col xs="col text-center Kan_col mt-5">
                 <h3 className="mt-2 column_head" > To-Do </h3>
-                <Card className="mx-auto mt-3 card_shadow" style={{ width: '23rem' }}>
+                <Card className="mx-auto mt-3 card_shadow">
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
@@ -24,7 +24,7 @@ export default function body() {
             </Col>
             <Col xs="col text-center Kan_col mt-5">
                 <h3 className="mt-2 column_head" > In-Progress </h3>
-                <Card className="mx-auto mt-3 card_shadow" style={{ width: '23rem' }}>
+                <Card className="mx-auto mt-3 card_shadow">
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
@@ -39,7 +39,7 @@ export default function body() {
             </Col>
             <Col xs="col text-center Kan_col mt-5">
                 <h3 className="mt-2 column_head" > In-review </h3>
-                <Card className="mx-auto mt-3 card_shadow" style={{ width: '23rem' }}>
+                <Card className="mx-auto mt-3 card_shadow">
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
@@ -54,7 +54,7 @@ export default function body() {
             </Col>
             <Col xs="col text-center Kan_col mt-5">
                 <h3 className="mt-2 column_head"> Completed </h3>
-                <Card className="mx-auto mt-3 card_shadow" style={{ width: '23rem' }}>
+                <Card className="mx-auto mt-3 card_shadow">
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
