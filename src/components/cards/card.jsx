@@ -12,7 +12,6 @@ export default function Cards() {
     const fetchCards = async () => {
       try {
         const response = await axios.get('http://localhost:3000/cards');
-        console.log("response", response)
         setCards(response.data);
       } catch (error) {
         console.error('Error fetching cards:', error);

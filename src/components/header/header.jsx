@@ -27,7 +27,7 @@ function Header() {
                             />
                         </Col>
                         <Col xs="auto col-md-1">
-                            <Button variant="success" type="submit">Find</Button>
+                            <Button variant="primary" type="submit">Find</Button>
                         </Col>
                         <Col xs="auto col-md-2">
                             <> <ModalCard /> </>
@@ -36,7 +36,7 @@ function Header() {
                     </Form>
                 </div>
                 <div className="d-flex col-md-2 justify-content-end">
-                    <h4 className="mt-2 mx-2 py-1"> Login </h4>
+                    <h4 className="mt-2 mx-2 py-1"> User_name </h4>
                     <span className="kanban_ico mx-1" ><FaCircleUser /></span>
                 </div>
             </div>
