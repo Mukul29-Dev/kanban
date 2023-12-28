@@ -10,7 +10,7 @@ function App() {
         <>
           <Header />
           <Body />
-        </>
+          </>
       </react-fragment>
     </div>
   );
