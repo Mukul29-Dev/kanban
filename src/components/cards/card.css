@@ -1,0 +1,8 @@
+.card_btn{
+ display: none!important;
+}
+
+.card_shadow:hover .card_btn{
+    display: flex!important;
+    transition-delay: 2s;
+}

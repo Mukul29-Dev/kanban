@@ -3,7 +3,7 @@ import { Button, Col, Container, Form, Row } from "react-bootstrap";
 import './header.css';
 import { BsFillKanbanFill } from "react-icons/bs";
 import { FaCircleUser } from "react-icons/fa6";
-import ModalCard from '../cards/modalcard'
+import ModalCard from '../cards/CreateCard'
 
 
 function Header() {
